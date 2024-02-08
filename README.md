@@ -1,4 +1,4 @@
-# Dowmnstream Trace with Python 🐍  
+# Water dowmnstream Trace with Python 🐍  
 
 ![image](https://github.com/Fernigithub/downstream_path/assets/13650586/3e99d3e3-80fa-461e-80f6-f33266bc5283)
 
